@@ -1,0 +1,10 @@
+{
+  "name": "grub-on-the-go",
+  "scripts": {
+    "build": "turbo run build",
+    "test": "turbo run test"
+  },
+  "devDependencies": {
+    "turbo": "1.2.5"
+  }
+}
